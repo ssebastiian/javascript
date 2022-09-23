@@ -1,0 +1,24 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "Proyecto de sass con gulps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass --watch FestivalMusica_inicio/src/scss:build/css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssebastiian/javascript.git"
+  },
+  "author": "sebastian carrillo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ssebastiian/javascript/issues"
+  },
+  "homepage": "https://github.com/ssebastiian/javascript#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "sass": "^1.55.0"
+  }
+}
