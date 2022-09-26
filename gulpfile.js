@@ -10,7 +10,7 @@ function css(done) {
 }
 
 function dev(done) {
-    watch("FestivalMusica_inicio/src/scss/app.scss", css)
+    watch("src/scss/app.scss", css)
     done();
 }
 
